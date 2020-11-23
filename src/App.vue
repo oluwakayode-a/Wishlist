@@ -103,7 +103,7 @@
            url: 'https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js/'
          },
          {
-           name: 'The Complete Guide to Django REST Framework and Vue JS',
+           name: 'UI UX Web Design Using Adobe XD',
            img: 'https://img-a.udemycdn.com/course/240x135/1452908_8741_3.jpg?e5foF_rWu4hkq_QMh5I8qIqH6VdraFVIDCqKUPzl-0PFc7DK0moAno_u1il0At05HaxX6j3n3WWREpCBk9aQhgNeyL_Rj_V5Tawa6w3rQbvphNCTJmahTRuWTn9jtoCP',
            price: '7,000',
            url: 'https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/'
