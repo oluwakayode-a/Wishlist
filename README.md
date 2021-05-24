@@ -1,5 +1,5 @@
 # wishlist
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f66afec0-9b24-476d-81df-157bf27dc642/deploy-status)](https://app.netlify.com/sites/my-wishlist/deploys)
 ## Project setup
 ```
 npm install
